@@ -43,12 +43,23 @@ Source Code/Project URL: https://github.com/andrecaminoa/Go-for-IT
 Resources
 
 100 Year Starship Initiative - http://symposium.100yss.org/about-100yss
+
 Centauri Dreams - http://www.centauri-dreams.org/
+
 Eyes on the Solar System - http://eyes.nasa.gov/
+
 Kardashev Scale - http://en.wikipedia.org/wiki/Kardashev_scale
+
 The Planetary Data System - http://pds.nasa.gov/
+
 Near Earth Object Program - http://neo.jpl.nasa.gov/ca/
+
 The Wide-Field Infrared Survey Explorer - http://wise2.ipac.caltech.edu/docs/release/allsky/
+
 Sun's Stellar Neighborhood - http://en.wikipedia.org/wiki/List_of_nearest_stars
+
 List of Multiplanetary Systems - http://en.wikipedia.org/wiki/List_of_stars_with_confirmed_extrasolar_planets
+
 UNISPACE Exponential Creativity - http://unispace.ws/
+
+The author of this proposal is the architect André Caminoa, Co-Founder of UNISPACE, an advanced design organization, a division of EXPONENTIAL CREATIVITY, geared to space development requirements and its potential applications in our planet.
