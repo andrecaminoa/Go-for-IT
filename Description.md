@@ -35,6 +35,21 @@ Players / Roles
 
 • Doers: frequent and advanced players that build the required infrastructures.
 
+The game
+
+Go For IT will be an online (in the Cloud) open-ended Game that can be played as single-player, for Learners in the “You are here” module, and also for Thinkers, or played as multi-player in the “We can do it” module, resulting in a virtual competition among Doers. However, there will be different levels of Doers.
+
+In the first level, a Doer player will be acting as a crewmember of a team that is responsible for the correct performing of research task and the optimum maintaining and operation of machines and instruments on board of predefined facilities such as orbital stations and traveling Interplanetary Spaceships for Cargo and transport of passengers, or conducting the same tasks in a reliable way for a determined period of time in a Moon Base, a Martian Settlement, or a manned outpost in an asteroid at the Kuiper Belt.
+There will be a recompense system based on performance, reliability and responsibility. An amount of StarCoins, as money, will be earned if the players accomplish its goal and passes to the next level. The mistakes and errors will be severally punished, because an equal to the reality, a simple error could result in the lost of several lives.
+
+In the second level, a Doer player will be able to act as a commander of an orbital station or an interplanetary Spaceship, with the increases responsibilities, and troubles associated with team leading, decision making, and management of high value assets.
+
+In the third level, a Doer will be acting as a manager of complex facilities such as bases, surfaces habitats, settlements, underground research facilities, asteroid outposts, etc. To pass to the next level, the players should demonstrate that can manage an extremely high value asset, and the most important way to earn a great amount of StarCoins is achieving the self-sustainability of the facility in charge, he or she should demonstrate commercial abilities and business success, he or she will be shareholder of the consortium that owns the facility. 
+
+In the fourth level, a Doer will be acting as a commander of an interstellar Starship that will be dispatched to the Alpha Centauri Stellar System. Asides of the precedent goals, responsibilities, and troubles that he or she will must to manage, there will be unknown dangers to discover and tackle.
+
+In the fifth level, a Doer should iterate all the previous levels but in a exo-solar settlement, at first in the Alpha Centauri Stellar System, and then following with all the others Stars.
+
 Project Information
 
 License: Creative Commons BY-SA 3.0
